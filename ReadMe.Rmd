@@ -2,12 +2,9 @@
 title: "Code share for Electric vehicle adoption, gentrification, and housing prices: a longitudinal study in California"
 author: "Futu Chen"
 date: "`r Sys.Date()`"
-output:
-  html_document:
-    theme: cosmo
-    toc: true
-    toc_float: true
+output: github_document
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -30,6 +27,7 @@ The analysis integrates multiple datasets, including:
 - ACS demographic and housing price data from IPUMS NHGIS: Jonathan Schroeder, David Van Riper, Steven Manson, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles. IPUMS National Historical Geographic Information System: Version 20.0 [dataset]. Minneapolis, MN: IPUMS. 2025. http://doi.org/10.18128/D050.V20.0 
 - UDP gentrification typology: https://github.com/urban-displacement/displacement-typologies
 - CalEnviroScreen 4.0: https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40
+- Lastly, making sure crosswalk data from 2020 universe to 2010 for this analysis: https://www.nhgis.org/geographic-crosswalks
 
 Note: Due to privacy restrictions, raw data are not publicly distributed in this repository, but they can be freely downloaded through the above URLs. 
 
