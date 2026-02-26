@@ -2,7 +2,7 @@ Code share for Electric vehicle adoption, gentrification, and housing
 prices: a longitudinal study in California
 ================
 Futu Chen
-2026-02-25
+2026-02-26
 
 # Overview
 
@@ -18,7 +18,7 @@ Longitudinal Study in California.”**
 The analysis integrates multiple datasets, including:
 
 - California Air Resources Board (CARB) EV data:
-  <https://arb.ca.gov/emfac/fleet-db/71921f2ab22a4a3ce61b63060283eced83e5ed16%20>
+  <https://arb.ca.gov/emfac/fleet-db>
 - ACS demographic and housing price data from IPUMS NHGIS: Jonathan
   Schroeder, David Van Riper, Steven Manson, Katherine Knowles, Tracy
   Kugler, Finn Roberts, and Steven Ruggles. IPUMS National Historical

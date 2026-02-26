@@ -23,7 +23,7 @@ This repository contains the code used in the study:
 
 The analysis integrates multiple datasets, including:
 
-- California Air Resources Board (CARB) EV data: https://arb.ca.gov/emfac/fleet-db/71921f2ab22a4a3ce61b63060283eced83e5ed16%20
+- California Air Resources Board (CARB) EV data: https://arb.ca.gov/emfac/fleet-db
 - ACS demographic and housing price data from IPUMS NHGIS: Jonathan Schroeder, David Van Riper, Steven Manson, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles. IPUMS National Historical Geographic Information System: Version 20.0 [dataset]. Minneapolis, MN: IPUMS. 2025. http://doi.org/10.18128/D050.V20.0 
 - UDP gentrification typology: https://github.com/urban-displacement/displacement-typologies
 - CalEnviroScreen 4.0: https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40
