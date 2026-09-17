@@ -45,7 +45,7 @@ The `Code/` directory contains R scripts used for the main analysis.
 
 # Citation
 
-Please cite: (pending)
+Please cite: Chen, F., Eckel, S.P., Palinkas, L.A., Johnston, J., Comando, A., Campos, A., Franco, W. and Garcia, E., 2026. Electric vehicle adoption, gentrification, and housing prices: a longitudinal study in California. Environmental Research Communications, 8(3), p.031004.
 
 ------------------------------------------------------------------------
 
